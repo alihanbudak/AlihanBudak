@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alihan Budak</h1>
 <h3 align="center">I am a Software Engineer !!</h3>
+### I'm a Software Engineer !!
 
+- 🎓 I started this business in my high school life ,
+- ✍️ I code with love and pleasure ,
+- 💡  I like to improve myself in this field in my spare time
+- 💬 I want to develop my career by signing good works and projects in the future.
+ 
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alihan-budak-9a533522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihan-budak-9a533522a/" height="30" width="40" /></a>
